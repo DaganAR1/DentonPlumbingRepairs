@@ -7,8 +7,8 @@
   }
   
   body {
-    background-color: #e0e1dd; /* Light neutral background */
-    color: #1b263b; /* Darker text */
+    background-color: #ffffff; /* Light neutral background */
+    color: #0d1b2a; /* Darker text */
   }
   
   .container {
@@ -25,7 +25,7 @@
   /* Increase the size of "Denton Tx Plumbing" */
   .header-left h1 {
       font-size: 4rem;  /* Increased size */
-      color: #e0e1dd;   /* Light text color */
+      color: #ffffff;   /* Light text color */
       font-weight: bold;
   }
   
@@ -37,17 +37,17 @@
   
   .header-middle i {
       font-size: 2rem;  /* Increased icon size */
-      color: #e0e1dd;   /* Light icon color */
+      color: #ffffff;   /* Light icon color */
   }
   
   /* Increase the size of the phone number */
   .header-right {
       font-size: 1.8rem;  /* Larger size for better visibility */
-      color: #e0e1dd;
+      color: #ffffff;
   }
   
   .header-right a {
-      color: #e0e1dd;  /* Light text */
+      color: #ffffff;  /* Light text */
       text-decoration: none;
       font-size: 4rem;  /* Match the larger size */
   }
@@ -68,7 +68,7 @@
       justify-content: space-between; /* Space between image and text */
       align-items: center; /* Vertically align items */
       padding: 60px 0; /* Adjust padding for more or less space */
-      background-color: #415a77; /* Background color of the hero section */
+      background-color: #0d1b2a; /* Background color of the hero section */
   }
   
   .hero-content {
@@ -77,13 +77,13 @@
   
   .hero-content h1 {
       font-size: 3.5rem; /* Increase the size of the main heading */
-      color: #e0e1dd; /* Light text */
+      color: #ffffff; /* Light text */
       margin-bottom: 20px; /* Space between heading and paragraph */
   }
   
   .hero-content p {
       font-size: 1.5rem; /* Increase paragraph font size */
-      color: #e0e1dd; /* Light text */
+      color: #ffffff; /* Light text */
       line-height: 1.5; /* Adjust line spacing for better readability */
       margin-bottom: 20px; /* Add space between paragraphs */
   }
@@ -91,20 +91,20 @@
   /* New styling for the additional hero text */
   .hero-description {
       font-size: 1.25rem; /* Slightly smaller than the main tagline */
-      color: #e0e1dd; /* Light text */
+      color: #ffffff; /* Light text */
       line-height: 1.8; /* Extra line spacing for better readability */
       margin-top: 20px; /* Space between the tagline and this paragraph */
   }
   
   /* Hero Boxed Text */
   .hero-box {
-      background-color: #778da9; /* Light blue background to make it stand out */
+      background-color: #0d1b2a; /* Light blue background to make it stand out */
       padding: 20px; /* Add padding inside the box */
-      border: 2px solid #e0e1dd; /* Light border to create contrast */
+      border: 2px solid #ffffff; /* Light border to create contrast */
       border-radius: 10px; /* Rounded corners */
       margin-top: 20px; /* Add space between the tagline and this box */
       max-width: 80%; /* Limit width of the box */
-      color: #e0e1dd; /* Ensure the text remains light */
+      color: #ffffff; /* Ensure the text remains light */
   }
   
   .hero-box p {
@@ -131,14 +131,14 @@
   }
   /* Professional Plumbing Services Section */
   .professional-services {
-      background-color: #e0e1dd; /* Light background */
+      background-color: #ffffff; /* Light background */
       padding: 50px 0;
       text-align: center;
   }
   
   .professional-services h2 {
       font-size: 2rem;
-      color: #1b263b; /* Dark text */
+      color: #0d1b2a; /* Dark text */
       margin-bottom: 0px;
       font-weight: bold;
   }
@@ -168,19 +168,19 @@
 
 .service-item i {
     font-size: 3rem;
-    color: #415a77; /* Icon color */
+    color: #0d1b2a; /* Icon color */
     margin-bottom: 15px;
 }
 
 .service-item h3 {
     font-size: 1.5rem;
-    color: #1b263b;
+    color: #0d1b2a;
     margin-bottom: 10px;
 }
 
 .service-item p {
     font-size: 0.9rem; /* Slightly smaller font */
-    color: #415a77;
+    color: #0d1b2a;
     line-height: 1.4; /* Adjusted line height */
 }
 
@@ -206,8 +206,8 @@
   
   /* CTA Button */
   .cta-button {
-      background-color: #415a77;
-      color: #e0e1dd;
+      background-color: #0d1b2a;
+      color: #ffffff;
       padding: 10px 20px;
       border: none;
       text-align: center;
@@ -222,14 +222,14 @@
   
   
   .cta-button:hover {
-      background-color: #778da9;
+      background-color: #0d1b2a;
   }
 
   .service-item .cta-button {
     margin-top: auto;
     padding: 10px 20px;
-    background-color: #415a77;
-    color: #e0e1dd;
+    background-color: #0d1b2a;
+    color: #ffffff;
     border-radius: 5px;
     text-decoration: none;
     display: inline-block;
@@ -246,7 +246,7 @@
       margin-top: 30px;
       border-radius: 8px;
       font-style: italic;
-      color: #415a77;
+      color: #0d1b2a;
   }
   
   
@@ -257,39 +257,39 @@
   /* Header/Navigation */
   header {
     background-color: #0d1b2a; /* Dark header background */
-    color: #e0e1dd; /* Light text */
+    color: #ffffff; /* Light text */
     padding: 20px;
     text-align: center;
   }
   
   header a {
-    color: #e0e1dd; /* Light text for navigation links */
+    color: #ffffff; /* Light text for navigation links */
     text-decoration: none;
     padding: 0 15px;
   }
   
   header a:hover {
-    color: #778da9; /* Hover effect on links */
+    color: #0d1b2a; /* Hover effect on links */
   }
   
   /* Content Sections */
   .content-section {
-    background-color: #1b263b; /* Dark content background */
-    color: #e0e1dd; /* Light text */
+    background-color: #0d1b2a; /* Dark content background */
+    color: #ffffff; /* Light text */
     padding: 50px;
     text-align: center;
   }
   
   .section-light {
-    background-color: #778da9; /* Light section background */
+    background-color: #0d1b2a; /* Light section background */
     color: #0d1b2a; /* Dark text */
     padding: 50px;
     text-align: center;
   }
   
   .section-dark {
-    background-color: #415a77; /* Medium-dark section */
-    color: #e0e1dd; /* Light text */
+    background-color: #0d1b2a; /* Medium-dark section */
+    color: #ffffff; /* Light text */
     padding: 50px;
     text-align: center;
   }
@@ -297,26 +297,26 @@
   /* Footer */
   footer {
     background-color: #0d1b2a; /* Dark footer background */
-    color: #e0e1dd; /* Light text */
+    color: #ffffff; /* Light text */
     padding: 20px;
     text-align: center;
   }
   
   footer a {
-    color: #e0e1dd;
+    color: #ffffff;
     text-decoration: none;
     padding: 0 10px;
   }
   
   footer a:hover {
-    color: #778da9;
+    color: #0d1b2a;
   }
   
   /* Buttons and Links */
   .button,
   a {
-    background-color: #778da9; /* Button background */
-    color: #e0e1dd; /* Button text color */
+    background-color: #0d1b2a; /* Button background */
+    color: #ffffff; /* Button text color */
     padding: 10px 20px;
     border: none;
     text-align: center;
@@ -329,11 +329,11 @@
   
   .button:hover,
   a:hover {
-    background-color: #415a77; /* Hover effect on buttons */
+    background-color: #0d1b2a; /* Hover effect on buttons */
   }
   /* Our Services Section */
   .our-services {
-      background-color: #e0e1dd; /* Light background */
+      background-color: #ffffff; /* Light background */
       padding: 50px 0;
       text-align: center;
   }
@@ -341,7 +341,7 @@
   
   .our-services h2 {
       font-size: 2.5rem;
-      color: #1b263b; /* Dark text */
+      color: #0d1b2a; /* Dark text */
       margin-bottom: 40px;
       font-weight: bold;
   }
@@ -352,9 +352,9 @@
   
   /* Testimonials Section */
   .testimonial-section {
-      background-color: #1b263b; /* Dark background for contrast */
+      background-color: #0d1b2a; /* Dark background for contrast */
       padding: 50px 0;
-      color: #e0e1dd;
+      color: #ffffff;
   }
   
   .testimonial-section h2 {
@@ -371,12 +371,12 @@
   }
   
   .testimonial {
-      background-color: #415a77;
+      background-color: #0d1b2a;
       padding: 20px;
       border-radius: 10px;
       width: 30%;
       position: relative;
-     color: #e0e1dd;
+     color: #ffffff;
   }
   
   .testimonial p {
@@ -399,16 +399,16 @@
   /* Contact Section */
   #contact {
       padding: 50px 0;
-      background-color: #e0e1dd; /* Light background */
+      background-color: #ffffff; /* Light background */
       text-align: center;
   }
   
   /* Footer Section */
 .site-footer {
     background-color: #0d1b2a; /* Dark background for footer */
-    color: #e0e1dd; /* Light text */
+    color: #ffffff; /* Light text */
     padding: 40px 0;
-    border-top: 2px solid #778da9; /* Top border for separation */
+    border-top: 2px solid #0d1b2a; /* Top border for separation */
     text-align: center;
 }
 
@@ -419,7 +419,7 @@
     width: 100%; /* Full width */
     padding: 15px 20px; /* Adjust padding as needed */
     background-color: #0d1b2a; /* Footer background color */
-    color: #e0e1dd; /* Text color */
+    color: #ffffff; /* Text color */
     box-sizing: border-box; /* Include padding in total width */
     margin: 0; /* Remove margin */
 }
@@ -452,7 +452,7 @@ body, html {
     width: 100%; /* Full width */
     padding: 15px 20px; /* Adjust padding as needed */
     background-color: #0d1b2a; /* Footer background color */
-    color: #e0e1dd; /* Text color */
+    color: #ffffff; /* Text color */
     box-sizing: border-box; /* Include padding in total width */
     margin: 0; /* Remove any margin */
 }
@@ -486,8 +486,8 @@ body, html {
   
    /* Main Section Styling */
   .reliable-plumbing {
-      background-color: #e0e1dd; /* Light background */
-      color: #1b263b; /* Dark text */
+      background-color: #ffffff; /* Light background */
+      color: #0d1b2a; /* Dark text */
       padding: 60px 0;
       text-align: left;
   }
@@ -495,7 +495,7 @@ body, html {
   /* Main Heading (H1) */
   .reliable-plumbing h1 {
       font-size: 2rem;
-      color: #1b263b; /* Dark blue */
+      color: #0d1b2a; /* Dark blue */
       text-align: center;
       margin-bottom: 40px;
       font-weight: bold;
@@ -504,7 +504,7 @@ body, html {
   /* Subsection Headings (H2) */
   .reliable-plumbing h2 {
       font-size: 1.6rem;
-      color: #415a77; /* Mid-tone blue */
+      color: #0d1b2a; /* Mid-tone blue */
       margin-bottom: 20px;
       font-weight: bold;
   }
@@ -513,14 +513,14 @@ body, html {
   .reliable-plumbing p {
       font-size: 1.2rem;
       line-height: 1.6;
-      color: #415a77;
+      color: #0d1b2a;
       margin-bottom: 30px;
   }
   
   /* Why Choose Us List */
   .why-choose-us h2 {
       font-size: 1.6rem;
-      color: #415a77;
+      color: #0d1b2a;
       margin-bottom: 20px;
   }
   
@@ -536,7 +536,7 @@ body, html {
   }
   
   .service-list li strong {
-      color: #1b263b; /* Emphasize in dark blue */
+      color: #0d1b2a; /* Emphasize in dark blue */
   }
   
   
@@ -552,8 +552,8 @@ body, html {
   }
   
   .service-locations-btn .button {
-      background-color: #415a77; /* Button background color */
-      color: #e0e1dd; /* Button text color */
+      background-color: #0d1b2a; /* Button background color */
+      color: #ffffff; /* Button text color */
       padding: 10px 20px;
       border: none;
       text-align: center;
@@ -566,7 +566,7 @@ body, html {
   }
   
   .service-locations-btn .button:hover {
-      background-color: #778da9; /* Hover color for the button */
+      background-color: #0d1b2a; /* Hover color for the button */
   }
   
   
@@ -837,8 +837,8 @@ body, html {
         padding: 15px; /* Add internal padding */
         box-sizing: border-box; /* Include padding in width calculation */
         border-radius: 8px; /* Rounded corners for aesthetic */
-        background-color: #415a77; /* Consistent background */
-        color: #e0e1dd; /* Ensure readability */
+        background-color: #0d1b2a; /* Consistent background */
+        color: #ffffff; /* Ensure readability */
     }
 
     .testimonial p {
@@ -965,13 +965,13 @@ body, html {
 .two-column-layout .quote-form h2 {
     font-size: 1.8rem;
     margin-bottom: 10px;
-    color: #415a77; /* Mid-tone blue */
+    color: #0d1b2a; /* Mid-tone blue */
 }
 
 .two-column-layout .quote-form p {
     font-size: 1.2rem;
     margin-bottom: 20px;
-    color: #415a77;
+    color: #0d1b2a;
 }
 
 .two-column-layout .vertical-form {
@@ -982,21 +982,21 @@ body, html {
 
 .two-column-layout .vertical-form label {
     font-size: 1rem;
-    color: #415a77;
+    color: #0d1b2a;
 }
 
 .two-column-layout .vertical-form input,
 .two-column-layout .vertical-form textarea {
     padding: 10px;
-    border: 1px solid #778da9;
+    border: 1px solid #0d1b2a;
     border-radius: 5px;
     font-size: 1rem;
-    color: #1b263b;
+    color: #0d1b2a;
 }
 
 .two-column-layout .vertical-form button {
-    background-color: #415a77;
-    color: #e0e1dd;
+    background-color: #0d1b2a;
+    color: #ffffff;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -1006,7 +1006,7 @@ body, html {
 }
 
 .two-column-layout .vertical-form button:hover {
-    background-color: #778da9;
+    background-color: #0d1b2a;
 }
 
 /* Responsive Styling */
@@ -1051,7 +1051,7 @@ body, html {
   }
   
   .navbar__links {
-    color: #e0e1dd;
+    color: #ffffff;
     text-decoration: none;
     padding: 10px 15px;
     transition: color 0.3s ease;
@@ -1060,8 +1060,8 @@ body, html {
   
   
   .navbar__btn .button {
-    background: #778da9;
-    color: #e0e1dd;
+    background: #0d1b2a;
+    color: #ffffff;
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
@@ -1071,7 +1071,7 @@ body, html {
   }
   
   .navbar__btn .button:hover {
-    background: #415a77;
+    background: #0d1b2a;
   }
   
   /* Dropdown Menu Styles */
@@ -1084,7 +1084,7 @@ body, html {
     position: absolute;
     top: 100%;
     left: 0;
-    background: #415a77;
+    background: #0d1b2a;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
     overflow: hidden;
@@ -1096,7 +1096,7 @@ body, html {
   }
   
   .dropdown__links {
-    color: #e0e1dd;
+    color: #ffffff;
     text-decoration: none;
     display: block;
     padding: 10px 20px;
@@ -1104,7 +1104,7 @@ body, html {
   }
   
   .dropdown__links:hover {
-    background-color: #778da9;
+    background-color: #0d1b2a;
   }
   
   /* Responsive Styles */
@@ -1116,7 +1116,7 @@ body, html {
       position: absolute;
       top: 80px;
       left: 0;
-      background: #415a77;
+      background: #0d1b2a;
     }
   
     .navbar__menu.active {
@@ -1141,7 +1141,7 @@ body, html {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #e0e1dd;
+    background-color: #ffffff;
 }
 
 .why-choose-us .content-wrapper {
@@ -1172,14 +1172,14 @@ body, html {
     display: inline-block;
     margin-top: 10px;
     padding: 10px 20px;
-    background-color: #415a77;
+    background-color: #0d1b2a;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
 }
 
 .cta-button:hover {
-    background-color: #778da9;
+    background-color: #0d1b2a;
 }
 
   
@@ -1187,8 +1187,8 @@ body, html {
 
 /* General SEO Section Styling */
 .seo-section {
-    background-color: #e0e1dd; /* Matches site's light background */
-    color: #1b263b; /* Dark text for readability */
+    background-color: #ffffff; /* Matches site's light background */
+    color: #0d1b2a; /* Dark text for readability */
     padding: 40px 20px; /* Add padding for spacing */
     text-align: left;
 }
@@ -1204,21 +1204,21 @@ body, html {
 .seo-section .section-title {
     font-size: 1.8rem; /* Reduced for mobile readability */
     font-weight: bold;
-    color: #415a77; /* Highlighted color */
+    color: #0d1b2a; /* Highlighted color */
     margin-bottom: 10px;
     text-align: center; /* Center the title for better visual hierarchy */
 }
 
 .seo-section p {
     font-size: 1rem; /* Adjust font size for readability */
-    color: #415a77;
+    color: #0d1b2a;
     line-height: 1.6; /* Improved spacing for better readability */
 }
 
 .seo-section h2 {
     font-size: 1.4rem; /* Reduced slightly for mobile */
     font-weight: bold;
-    color: #1b263b;
+    color: #0d1b2a;
     margin-bottom: 10px;
     margin-top: 20px;
 }
@@ -1232,12 +1232,12 @@ body, html {
 
 .seo-section ul li {
     font-size: 1rem; /* Maintain consistent font size */
-    color: #415a77;
+    color: #0d1b2a;
     line-height: 1.6;
 }
 
 .seo-section ul li strong {
-    color: #1b263b; /* Highlight important text */
+    color: #0d1b2a; /* Highlight important text */
 }
 
 .seo-section .cta-buttons {
@@ -1247,8 +1247,8 @@ body, html {
 
 .seo-section .cta-button {
     display: inline-block;
-    background-color: #415a77; /* Matches button color scheme */
-    color: #e0e1dd; /* Light text for contrast */
+    background-color: #0d1b2a; /* Matches button color scheme */
+    color: #ffffff; /* Light text for contrast */
     padding: 10px 20px;
     font-size: 1rem;
     text-decoration: none;
@@ -1257,7 +1257,7 @@ body, html {
 }
 
 .seo-section .cta-button:hover {
-    background-color: #778da9; /* Hover effect for buttons */
+    background-color: #0d1b2a; /* Hover effect for buttons */
 }
 
 /* Mobile-Friendly Adjustments */
@@ -1323,13 +1323,13 @@ body, html {
 .quote-form h2 {
     font-size: 1.8rem;
     margin-bottom: 10px;
-    color: #415a77; /* Mid-tone blue */
+    color: #0d1b2a; /* Mid-tone blue */
 }
 
 .quote-form p {
     font-size: 1.2rem;
     margin-bottom: 20px;
-    color: #415a77;
+    color: #0d1b2a;
 }
 
 .vertical-form {
@@ -1367,20 +1367,20 @@ body, html {
 
 .desktop-navbar .navbar__menu .navbar__links,
 .desktop-navbar .button {
-    color: #e0e1dd; /* Light text */
+    color: #ffffff; /* Light text */
     text-decoration: none;
     font-size: 1rem;
 }
 
 .desktop-navbar .button {
-    background-color: #778da9;
+    background-color: #0d1b2a;
     padding: 10px 20px;
     border-radius: 5px;
     transition: background-color 0.3s ease;
 }
 
 .desktop-navbar .button:hover {
-    background-color: #415a77;
+    background-color: #0d1b2a;
 }
 
 /* Mobile Navbar */
@@ -1397,7 +1397,7 @@ body, html {
 }
 
 .mobile-navbar .navbar__phone a {
-    color: #e0e1dd; /* Light text */
+    color: #ffffff; /* Light text */
     text-decoration: none;
     font-size: 1.2rem;
     font-weight: bold;
@@ -1413,4 +1413,85 @@ body, html {
         display: flex; /* Show mobile navbar */
     }
 }
+
+/* Contact Section Container */
+.contact-section {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    justify-content: space-between; /* Space between map and contact details */
+    align-items: center; /* Vertically align items */
+    gap: 20px; /* Space between elements */
+}
+
+/* Map Section */
+.map {
+    flex: 1 1 50%; /* Takes up half the width */
+    max-width: 600px; /* Maximum width for larger screens */
+}
+
+.map-container {
+    width: 100%;
+    aspect-ratio: 16 / 9; /* Keep map proportional */
+    position: relative;
+    overflow: hidden;
+}
+
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+/* Contact Details Section */
+.contact-details {
+    flex: 1 1 30%; /* Takes up less width */
+    text-align: right; /* Align text to the right */
+}
+
+.contact-details h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.contact-details p {
+    font-size: 1.2em;
+}
+
+/* Button Section */
+.service-locations-btn {
+    margin-top: 20px;
+    text-align: center; /* Center the button */
+}
+
+.service-locations-btn .button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.1em;
+    color: white;
+    background-color: #0d1b2a; /* Adjust to your theme */
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.service-locations-btn .button:hover {
+    background-color: #0d1b2a; /* Hover effect */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .contact-section {
+        flex-direction: column; /* Stack elements on smaller screens */
+        align-items: center;
+        text-align: center; /* Center text for mobile */
+    }
+
+    .contact-details {
+        text-align: center;
+    }
+}
+
 

@@ -1,7 +1,7 @@
 /* Header Section */
 .site-header {
     background-color: #0d1b2a; /* Dark background to match main site */
-    color: #e0e1dd; /* Light text color */
+    color: #ffffff; /* Light text color */
     padding: 20px 0;
     text-align: center;
 }
@@ -17,7 +17,7 @@
 
 .header-left h1 {
     font-size: 3rem; /* Maintain the original font size */
-    color: #e0e1dd; /* Light text color */
+    color: #ffffff; /* Light text color */
     font-weight: bold;
     margin: 0;
     white-space: nowrap; /* Prevent text from wrapping */
@@ -31,12 +31,12 @@
 
 .header-middle i {
     font-size: 1.8rem; /* Adjust icon size to match */
-    color: #e0e1dd; /* Light icon color */
+    color: #ffffff; /* Light icon color */
 }
 
 .header-right .phone-number {
-    background-color: #778da9; /* Light blue background for phone number */
-    color: #e0e1dd; /* Text color inside phone button */
+    background-color: #0d1b2a; /* Light blue background for phone number */
+    color: #ffffff; /* Text color inside phone button */
     padding: 10px 15px;
     border-radius: 5px;
     font-size: 1.5rem;
@@ -79,11 +79,11 @@
 /* Hover effects */
 .header-middle i:hover,
 .header-right .phone-number:hover {
-    color: #415a77;
+    color: #0d1b2a;
 }
 
 .header-right .phone-number:hover {
-    background-color: #415a77; /* Darker blue for hover effect */
+    background-color: #0d1b2a; /* Darker blue for hover effect */
 }
 
 
@@ -116,7 +116,7 @@
 .leak-repairs-section {
     background-color: #f7f9fc; /* Light background for readability */
     padding: 40px 20px;
-    color: #1b263b;
+    color: #0d1b2a;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
 }
@@ -124,7 +124,7 @@
 /* Section Headings */
 .leak-repairs-section h2 {
     font-size: 2.5rem;
-    color: #415a77;
+    color: #0d1b2a;
     margin-bottom: 20px;
     text-align: center;
     font-weight: bold;
@@ -132,17 +132,17 @@
 
 .leak-repairs-section h3 {
     font-size: 1.8rem;
-    color: #1b263b;
+    color: #0d1b2a;
     margin-top: 30px;
     font-weight: bold;
-    border-left: 4px solid #415a77;
+    border-left: 4px solid #0d1b2a;
     padding-left: 15px;
 }
 
 /* Paragraph and List Styling */
 .leak-repairs-section p {
     font-size: 1.2rem;
-    color: #415a77;
+    color: #0d1b2a;
     margin-bottom: 20px;
     line-height: 1.8;
 }
@@ -155,7 +155,7 @@
 
 .leak-repairs-benefits li {
     font-size: 1.1rem;
-    color: #415a77;
+    color: #0d1b2a;
     margin-bottom: 15px;
     padding-left: 25px;
     position: relative;
@@ -163,7 +163,7 @@
 
 .leak-repairs-benefits li::before {
     content: "✔"; /* Checkmark for list items */
-    color: #1b263b;
+    color: #0d1b2a;
     font-weight: bold;
     position: absolute;
     left: 0;
@@ -177,8 +177,8 @@
 
 .cta-button {
     display: inline-block; /* Ensures the button respects centering */
-    background-color: #415a77;
-    color: #e0e1dd;
+    background-color: #0d1b2a;
+    color: #ffffff;
     padding: 12px 25px;
     font-size: 1.2rem;
     font-weight: bold;
@@ -189,7 +189,7 @@
 }
 
 .cta-button:hover {
-    background-color: #778da9;
+    background-color: #0d1b2a;
 }
 
 
@@ -197,21 +197,21 @@
 .section-divider {
     width: 100%;
     height: 2px;
-    background-color: #415a77;
+    background-color: #0d1b2a;
     margin: 30px 0;
 }
 
 /* FAQ Styling */
 .faq-question {
     font-size: 1.6rem;
-    color: #1b263b;
+    color: #0d1b2a;
     font-weight: bold;
     margin-top: 20px;
 }
 
 .faq-answer {
     font-size: 1.1rem;
-    color: #415a77;
+    color: #0d1b2a;
     margin-left: 20px;
 }
 
@@ -242,25 +242,25 @@
  /* Footer */
  footer {
     background-color: #0d1b2a; /* Dark footer background */
-    color: #e0e1dd; /* Light text */
+    color: #ffffff; /* Light text */
     padding: 20px;
     text-align: center;
   }
   
   footer a {
-    color: #e0e1dd;
+    color: #ffffff;
     text-decoration: none;
     padding: 0 10px;
   }
   
   footer a:hover {
-    color: #778da9;
+    color: #0d1b2a;
   }
    /* Buttons and Links */
    .button,
    a {
-     background-color: #778da9; /* Button background */
-     color: #e0e1dd; /* Button text color */
+     background-color: #0d1b2a; /* Button background */
+     color: #ffffff; /* Button text color */
      padding: 10px 20px;
      border: none;
      text-align: center;
@@ -273,14 +273,14 @@
    
    .button:hover,
    a:hover {
-     background-color: #415a77; /* Hover effect on buttons */
+     background-color: #0d1b2a; /* Hover effect on buttons */
    }
    /* Footer Section */
   .site-footer {
     background-color: #0d1b2a; /* Dark background for footer */
-    color: #e0e1dd; /* Light text */
+    color: #ffffff; /* Light text */
     padding: 40px 0;
-    border-top: 2px solid #778da9; /* Top border for separation */
+    border-top: 2px solid #0d1b2a; /* Top border for separation */
     text-align: center;
 }
 
@@ -293,7 +293,7 @@
 .site-footer p {
     font-size: 1.2rem;
     margin-bottom: 20px;
-    color: #e0e1dd;
+    color: #ffffff;
 }
 
 .footer-links {
@@ -308,31 +308,31 @@
 }
 
 .footer-links a {
-    color: #e0e1dd; /* Light text for links */
+    color: #ffffff; /* Light text for links */
     text-decoration: none;
 }
 
 .footer-links a:hover {
-    color: #778da9; /* Lighter hover color */
+    color: #0d1b2a; /* Lighter hover color */
 }
 
 .footer-contact a {
-    color: #e0e1dd; /* Light text color that matches the rest of the footer */
+    color: #ffffff; /* Light text color that matches the rest of the footer */
     text-decoration: none; /* Optional: Remove underline if not needed */
 }
 
 .footer-contact a:hover {
-    color: #778da9; /* Lighter color for hover state */
+    color: #0d1b2a; /* Lighter color for hover state */
 }
 
 .footer-social a {
-    color: #e0e1dd;
+    color: #ffffff;
     margin: 0 10px;
     font-size: 1.5rem;
 }
 
 .footer-social a:hover {
-    color: #778da9; /* Hover effect for social icons */
+    color: #0d1b2a; /* Hover effect for social icons */
 }
 
 @media (max-width: 768px) {
@@ -468,7 +468,7 @@
 
 
 .header-left .home-link {
-    color: #e0e1dd; /* Matches the header text color */
+    color: #ffffff; /* Matches the header text color */
     text-decoration: none; /* Removes underline */
     font-size: 3rem; /* Matches the original font size */
     font-weight: bold; /* Matches original font weight */
@@ -480,14 +480,14 @@
 
 .header-left .home-link:hover,
 .header-left .home-link:focus {
-    color: #e0e1dd; /* Keeps color the same on hover and focus */
+    color: #ffffff; /* Keeps color the same on hover and focus */
     background: none; /* Ensures no background on hover or focus */
     outline: none; /* Removes any focus outline */
 }
 
 /* Scale Animation */
 .header-left .home-link {
-    color: #e0e1dd; /* Original text color */
+    color: #ffffff; /* Original text color */
     text-decoration: none;
     font-size: 3rem;
     font-weight: bold;
@@ -496,7 +496,7 @@
 
 .header-left .home-link:hover {
     transform: scale(1.05); /* Scales up the text slightly */
-    color: #778da9; /* Changes color on hover */
+    color: #0d1b2a; /* Changes color on hover */
 }
 
 
@@ -529,13 +529,13 @@
 .quote-form h2 {
     font-size: 1.8rem; /* Heading size */
     margin-bottom: 10px; /* Space below heading */
-    color: #415a77; /* Blue color for heading text */
+    color: #0d1b2a; /* Blue color for heading text */
     font-weight: bold;
 }
 
 .quote-form p {
     font-size: 1.2rem; /* Text size for paragraph */
-    color: #415a77; /* Consistent blue tone */
+    color: #0d1b2a; /* Consistent blue tone */
     margin-bottom: 20px; /* Space below paragraph */
 }
 
@@ -547,7 +547,7 @@
 
 .vertical-form label {
     font-size: 1rem; /* Label text size */
-    color: #415a77; /* Label text color */
+    color: #0d1b2a; /* Label text color */
     text-align: left; /* Align labels to the left */
 }
 
@@ -555,16 +555,16 @@
 .vertical-form textarea {
     width: 100%; /* Full width of the container */
     padding: 10px; /* Internal padding */
-    border: 1px solid #778da9; /* Border color */
+    border: 1px solid #0d1b2a; /* Border color */
     border-radius: 5px; /* Rounded corners for inputs */
     font-size: 1rem; /* Input text size */
-    color: #1b263b; /* Darker text color for readability */
+    color: #0d1b2a; /* Darker text color for readability */
     background-color: #f7f9fc; /* Light background for inputs */
 }
 
 .vertical-form button {
-    background-color: #415a77; /* Button background color */
-    color: #e0e1dd; /* Light text for contrast */
+    background-color: #0d1b2a; /* Button background color */
+    color: #ffffff; /* Light text for contrast */
     padding: 10px 20px; /* Button size */
     border: none; /* Remove border */
     border-radius: 5px; /* Rounded corners for button */
@@ -574,7 +574,7 @@
 }
 
 .vertical-form button:hover {
-    background-color: #778da9; /* Hover color for button */
+    background-color: #0d1b2a; /* Hover color for button */
 }
 
 /* Responsive Adjustments */
